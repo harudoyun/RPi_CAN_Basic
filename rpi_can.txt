@@ -83,7 +83,7 @@ $nano /etc/modules
 
 snd-bcm2835
 
-spi_bcm2708
+spi-bcm2708
 
 can
 
